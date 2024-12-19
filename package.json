@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.2",
+    "@types/uuid": "^10.0.0",
+    "appwrite": "^16.0.2",
+    "excalibur": "^0.29.3",
+    "uuid": "^11.0.3"
+  }
+}
